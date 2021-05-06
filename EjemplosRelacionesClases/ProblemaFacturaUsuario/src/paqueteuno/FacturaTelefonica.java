@@ -5,6 +5,8 @@
  */
 package paqueteuno;
 
+import paquetedos.Usuario;
+
 /**
  *
  * @author reroes
